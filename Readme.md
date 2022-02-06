@@ -199,3 +199,7 @@ Cum sunt implementate fiecare tip de serial/film:
 
     - functia de comparare a doua Serial, daca un serial are rating -1
     se compara doar numele
+
+Drepturile de autor asupra checker-ului si a conditiei o detin echipa de Structuri de Date UPB 2020
+
+Codul de implementare a cerintelor, apartine Girnet Andrei
